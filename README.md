@@ -16,3 +16,6 @@ MATPLOTLIB to plot graph.
 Struggled with pandas kept on using scientific notation (e) for output. Very annoying, but managed to fix it with very cool and complicated formatting!!!!
 
 
+*HOW TO VIEW CSV FILE*
+Press Math AA.csv
+find the view raw button
